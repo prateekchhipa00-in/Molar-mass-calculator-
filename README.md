@@ -43,7 +43,7 @@ A Python-based terminal application that calculates **molecular mass**, **vapour
 3. Run the file:
 
 ```bash
-python molecular_mass_calculator.py
+python Chemistry.py
 ```
 
 ---
